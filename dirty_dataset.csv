@@ -1,0 +1,16 @@
+id,name,age,gender,salary,joining_date,department,email
+1,John Doe,28,Male,50000,2021-05-10,Engineering,john.doe@email.com
+2, Jane Smith ,,Female,60000,10/06/2020,HR,janesmith@email.com
+3,Bob Johnson,thirty,Male,55000,2019-07-15,Engineering,bob.j@email
+4,Alice Brown,25,Female,,2022-01-20,Marketing,alice.brown@email.com
+5,Chris Green,40,Male,70000,2020/03/12,Finance,chris.green@email.com
+6,John Doe,28,Male,50000,2021-05-10,Engineering,john.doe@email.com
+7,,35,Female,65000,2018-11-30,HR,missingname@email.com
+8,David Lee,29,Male,not_available,2021-08-25,Engineering,david.lee@email.com
+9,Emma Wilson,27,Female,58000,2021-13-01,Marketing,emma.wilson@email.com
+10,Liam White,31,Male,62000,2020-02-30,Finance,liam.white@email.com
+11,Olivia Martin,26,Female,57000,,HR,olivia.martin@email.com
+12,Noah Clark,33,Male,72000,2019-09-10,Engineering,noah.clark@email.com
+13,Sophia Lewis,abc,Female,61000,2021-04-18,Marketing,sophia.lewis@email.com
+14,James Walker,45,Male,80000,2017-06-25,Finance,james.walker@email.com
+15,Isabella Hall,29,Female,59000,2021-07-11,HR,isabella.hall@email
